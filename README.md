@@ -53,13 +53,8 @@
 <div>
   <h2>🎨 Projects</h2>
   <ul>
-    <li><a href="https://github.com/pariasoleimani/Bankist">Bankist</a> - A brief description of Project 1.</li>
-    <li><a href="https://github.com/pariasoleimani/ParsiRealEstate">ParsiRealEstate</a> - A brief description of Project 2.</li>
-    <li><a href="https://github.com/pariasoleimani/PigGame">PigGame</a> - A brief description of Project 3.</li>
+    <li><a href="https://github.com/pariasoleimani/Bankist">Bankist</a> - a mini project for a banking system.</li>
+    <li><a href="https://github.com/pariasoleimani/ParsiRealEstate">ParsiRealEstate</a> - a website for a real estate agancy.</li>
+    <li><a href="https://github.com/pariasoleimani/PigGame">PigGame</a> - a fun game of dices and scores.</li>
   </ul>
 </div>
-
-<!---
-PariaSoleimani/PariaSoleimani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
