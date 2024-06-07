@@ -10,7 +10,7 @@
     <a href="https://t.me/shecodes">
       <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white&color=%2326A5E4" alt="Twitter Badge"/>
     </a>
-    <a href="mailto:pari.slmni@gmail.com">
+    <a href="mailto:paria.slmni@gmail.com">
       <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335" alt="Twitter Badge"/>
     </a>
   </div>
