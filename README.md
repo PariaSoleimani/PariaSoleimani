@@ -38,6 +38,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" title="StackOverflow" alt="StackOverflow" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   </div>
 </div>
 
@@ -45,7 +47,7 @@
   <h2>📊 My Stats</h2>
   <p>
     <img src="https://streak-stats.demolab.com?user=pariasoleimani&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=pariasoleimani&show_icons=true&theme=radical&border_radius=10&card_width=500&card_height=200" alt="Paria's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=pariasoleimani&show_icons=true&theme=radical&border_radius=10&card_width=500&card_height=200&text_bold=false" alt="Paria's GitHub Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariasoleimani&layout=compact&theme=radical&border_radius=10&card_width=500&card_height=200" alt="Top Languages"/>
   </p>
 </div>
