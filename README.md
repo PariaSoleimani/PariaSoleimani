@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc282NzB0Z2RjdG1zZTVxaXcxemV0d3N2bGtxY3lwZTNrMXc4anN2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="430"/>
   <div id="badges">
-    <a href="https://linkedin.com/pariasoleimani">
+    <a href="https://linkedin.com/in/pariasoleimani">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2" alt="LinkedIn Badge"/>
     </a>
     <a href="https://x.com/theonlyrealpari">
@@ -17,18 +17,13 @@
   <img src="https://komarev.com/ghpvc/?username=pariasoleimani&style=for-the-badge&color=ff69b4&base=100" alt=""/>
 </div>
 
-
-<h1>
-  🙆🏻‍♀️<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Paria and I love what I do!
-</h1>
-
 <div>
-  <h2>👩🏻‍💻 About Me</h2>
+  <h2>🙆🏻‍♀️<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> Hi, I'm Paria and I love what I do!</h2>
   <p>I am a Front-End Developer from Iran.</p>
   <ul>
     <li>🚀 I’m currently working on web development projects using <strong>HTML</strong>, <strong>CSS</strong>, <strong>Tailwind CSS</strong>, and <strong>JavaScript</strong>.</li>
     <li>🌱 Always keen to learn new technologies and improve my coding skills.</li>
-    <li>🎈 In my free time, I enjoy watching movies, going for a walk in nature and hitting the gym</li>
+    <li>🎈 In my free time, I enjoy watching movies, going for a walk in nature and hitting the gym.</li>
     <li>💭 Currently learning about responsive design and the logic of web development</li>
   </ul>
 </div>
