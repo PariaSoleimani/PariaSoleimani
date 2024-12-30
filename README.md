@@ -21,11 +21,11 @@
   <h2>🙆🏻‍♀️<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> Hi, I'm Paria and I love what I do!</h2>
   <p>I am a Front-End Developer based in Tehran, Iran.</p>
   <ul>
-    <li>🚀 Currently working on web development projects using <strong>Tailwind CSS</strong>, and <strong>Vue.js</strong>.</li>
-    <li>🌱 Always keen to learn new technologies and improve my coding skills.</li>
-    <li>🎈 In my free time, I enjoy watching movies, walking in nature and hitting the gym.</li>
-    <li>💭 Currently learning about responsive design and the logic of web development.</li>
-    <li>💪🏻 Excited to explore three.js and Bootstrap for upcoming projects.</li>
+    <li>🚀 Developing projects with <strong>Tailwind CSS</strong>, and <strong>Vue.js</strong>.</li>
+    <li>🌱 Passionate about exploring new technologies and continuously enhancing my skills.</li>
+    <li>🎈 A proud cinephile, a dedicated gym rat, a nature enthusiast, and a yogi in my free time.</li>
+    <li>💭 Expanding my web development skills and improving my problem-solving mindse.</li>
+    <li>💪🏻 Thrilled to dive into <strong>three.js</strong> and <strong>Bootstrap</strong> for my next projects.</li>
   </ul>
 </div>
 
@@ -56,7 +56,7 @@
 </div>
 
 <div>
-  <h2>🎨 Projects</h2>
+  <h2>🎨 Favorite Projects</h2>
   <ul>
     <li><a href="https://github.com/pariasoleimani/Bankist">Bankist</a> - a mini project for a banking system.</li>
     <li><a href="https://github.com/pariasoleimani/ParsiRealEstate">ParsiRealEstate</a> - a website for a real estate agancy.</li>
