@@ -18,12 +18,12 @@
 </div>
 
 <div>
-  <h2>🙆🏻‍♀️<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> Hi, I'm Paria and I love what I do!</h2>
+  <h2>🙆🏻‍♀️ Hi, I'm Paria and I love what I do!</h2>
   <p>I am a Front-End Developer based in Tehran, Iran.</p>
   <ul>
     <li>🚀 Developing projects with <strong>Tailwind CSS</strong>, and <strong>Vue.js</strong>.</li>
-    <li>🌱 Passionate about exploring new technologies and continuously enhancing my skills.</li>
-    <li>🎈 A proud cinephile, a dedicated gym rat, a nature enthusiast, and a yogi in my free time.</li>
+    <li>🌱 Passionate about exploring new technologies and <strong>continuously</strong> enhancing my skills.</li>
+    <li>🎈 A proud <strong>cinephile</strong>, a dedicated <strong>gym rat</strong>, a <strong>nature lover</strong>, and a <strong>yogi</strong> in my free time.</li>
     <li>💭 Expanding my web development skills and improving my problem-solving mindse.</li>
     <li>💪🏻 Thrilled to dive into <strong>three.js</strong> and <strong>Bootstrap</strong> for my next projects.</li>
   </ul>
@@ -38,6 +38,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swiper/swiper-original.svg" title="Swipperjs" alt="Swipperjs" width="40" height="40" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" title="StackOverflow" alt="StackOverflow" width="40" height="40"/>&nbsp;
