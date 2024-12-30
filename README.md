@@ -1,5 +1,6 @@
+<br><br>
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc282NzB0Z2RjdG1zZTVxaXcxemV0d3N2bGtxY3lwZTNrMXc4anN2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="430"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc282NzB0Z2RjdG1zZTVxaXcxemV0d3N2bGtxY3lwZTNrMXc4anN2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="550"/>
   <div id="badges">
     <a href="https://linkedin.com/in/pariasoleimani">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2" alt="LinkedIn Badge"/>
@@ -17,6 +18,8 @@
   <img src="https://komarev.com/ghpvc/?username=pariasoleimani&style=for-the-badge&color=ff69b4&base=100" alt=""/>
 </div>
 
+<br><br>
+
 <div>
   <h2>🙆🏻‍♀️ Hi, I'm Paria and I love what I do!</h2>
   <p>I am a Front-End Developer based in Tehran, Iran.</p>
@@ -29,9 +32,7 @@
   </ul>
 </div>
 
-<div style="height: 50px">
-
-</div>
+<br><br>
 
 <div>
   <h2>🛠 Languages and Tools</h2>
@@ -51,6 +52,8 @@
   </div>
 </div>
 
+<br><br>
+
 <div>
   <h2>📊 My Stats</h2>
   <p>
@@ -59,6 +62,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariasoleimani&layout=compact&theme=radical&border_radius=10&card_width=500&card_height=200" alt="Top Languages"/>
   </p>
 </div>
+
+<br><br>
 
 <div>
   <h2>🎨 Favorite Projects</h2>
