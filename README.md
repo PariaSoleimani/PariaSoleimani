@@ -19,12 +19,13 @@
 
 <div>
   <h2>🙆🏻‍♀️<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> Hi, I'm Paria and I love what I do!</h2>
-  <p>I am a Front-End Developer from Iran.</p>
+  <p>I am a Front-End Developer based in Tehran, Iran.</p>
   <ul>
-    <li>🚀 I’m currently working on web development projects using <strong>HTML</strong>, <strong>CSS</strong>, <strong>Tailwind CSS</strong>, and <strong>JavaScript</strong>.</li>
+    <li>🚀 Currently working on web development projects using <strong>Tailwind CSS</strong>, and <strong>Vue.js</strong>.</li>
     <li>🌱 Always keen to learn new technologies and improve my coding skills.</li>
-    <li>🎈 In my free time, I enjoy watching movies, going for a walk in nature and hitting the gym.</li>
-    <li>💭 Currently learning about responsive design and the logic of web development</li>
+    <li>🎈 In my free time, I enjoy watching movies, walking in nature and hitting the gym.</li>
+    <li>💭 Currently learning about responsive design and the logic of web development.</li>
+    <li>💪🏻 Excited to explore three.js and Bootstrap for upcoming projects.</li>
   </ul>
 </div>
 
@@ -33,8 +34,10 @@
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" title="StackOverflow" alt="StackOverflow" width="40" height="40"/>&nbsp;
