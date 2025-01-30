@@ -62,7 +62,7 @@
   <p>
     <img src="https://streak-stats.demolab.com?user=pariasoleimani&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api?username=pariasoleimani&show_icons=true&theme=radical&border_radius=10&card_width=500&card_height=200&text_bold=false" alt="Paria's GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariasoleimani&layout=compact&theme=radical&border_radius=10&card_width=500&card_height=200" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariasoleimani&layout=compact&theme=radical&border_radius=10&card_width=500&card_height=200&cache_seconds=1800" alt="Top Languages"/>
   </p>
 </div>
 
