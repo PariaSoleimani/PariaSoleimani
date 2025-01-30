@@ -26,8 +26,8 @@
   <ul>
     <li>🚀 Developing projects with <strong>Tailwind CSS</strong>, and <strong>Vue.js</strong>.</li>
     <li>🌱 Passionate about exploring new technologies and <strong>continuously</strong> enhancing my skills.</li>
-    <li>🎈 A proud <strong>cinephile</strong>, a dedicated <strong>gym rat</strong>, a <strong>nature lover</strong>, and a <strong>yogi</strong> in my free time.</li>
-    <li>💭 Expanding my web development skills and improving my problem-solving mindse.</li>
+    <li>⛱️ A proud <strong>cinephile</strong>, a dedicated <strong>gym rat</strong>, a <strong>nature lover</strong>, and a <strong>yogi</strong> in my free time.</li>
+    <li>⚡ Expanding my web development skills and improving my problem-solving mindse.</li>
     <li>💪🏻 Thrilled to dive into <strong>three.js</strong> and <strong>Nuxt.js</strong> for my next projects.</li>
   </ul>
 </div>
